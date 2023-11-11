@@ -25,7 +25,7 @@ const page = () => {
             </div>
             <div className="space-y-2 text-center max-w-lg">
               <h5 className="font-semibold text-2xl">TRANSPORT</h5>
-              <p className=" text-gray-500">Les prix des billets d'avions sont actuellement attractifs, réservez sans tarder !</p>
+              <p className=" text-gray-500">Les prix des billets d avions sont actuellement attractifs, reservez sans tarder !</p>
             </div>
           </div>
         </div>
