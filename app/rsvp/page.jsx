@@ -2,7 +2,10 @@
 import { useState } from "react";
 import Image from "next/image";
 
-const page = () => {
+
+
+function Page() {
+
   const [formData, setFormData] = useState({
     civilities: [],
     firstName: "",
@@ -277,4 +280,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
